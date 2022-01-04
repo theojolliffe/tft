@@ -6,7 +6,7 @@
 	import { load } from "archieml";
 	import robojournalist from 'robojournalist';
 
-    import * as someJSON from '/Users/theojolliffe/Documents/Football/Football Python/tweets.json';
+    import * as someJSON from './tweets.json';
 
 	console.log('someJSON', someJSON.default)
 
